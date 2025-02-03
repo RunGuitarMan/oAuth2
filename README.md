@@ -1,6 +1,6 @@
 # oAuth2 Library Boilerplate Project 🚀
 
-[![Build Status](https://img.shields.io/github/workflow/status/your-username/your-repo/Build?style=flat-square)](https://github.com/your-username/your-repo/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/RunGuitarMan/oAuth2/Build?style=flat-square)](https://github.com/RunGuitarMan/oAuth2/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![NuGet Version](https://img.shields.io/nuget/v/OAuth2.Library?style=flat-square)](https://www.nuget.org/packages/OAuth2.Library)
 
