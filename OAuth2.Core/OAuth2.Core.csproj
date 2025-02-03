@@ -15,4 +15,15 @@
       <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.3.1" />
     </ItemGroup>
 
+    <PropertyGroup>
+        <PackageId>RunGuitarMan.oAuth2</PackageId>
+        <Version>0.1.0</Version>
+        <Authors>Aleksey Ulyanovskiy</Authors>
+        <Description>Универсальная библиотека для управления OAuth2 в .NET</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/RunGuitarMan/oAuth2</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/RunGuitarMan/oAuth2</RepositoryUrl>
+        <PackageTags>OAuth2;Authentication;Authorization</PackageTags>
+    </PropertyGroup>
+    
 </Project>
