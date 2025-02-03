@@ -1,8 +1,8 @@
-# oAuth2 Library Boilerplate Project 🚀
+# oAuth2 Library Project 🚀
 
-[![Build Status](https://img.shields.io/github/workflow/status/RunGuitarMan/oAuth2/Build?style=flat-square)](https://github.com/RunGuitarMan/oAuth2/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/RunGuitarMan/oAuth2/publish.yml?branch=main)](https://github.com/RunGuitarMan/oAuth2/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![NuGet Version](https://img.shields.io/nuget/v/OAuth2.Library?style=flat-square)](https://www.nuget.org/packages/OAuth2.Library)
+[![NuGet Version](https://img.shields.io/nuget/v/OAuth2.Library?style=flat-square)](https://www.nuget.org/packages/RunGuitarMan.oAuth2)
 
 Сейчас проект находится в стадии **init** 🔰
 
